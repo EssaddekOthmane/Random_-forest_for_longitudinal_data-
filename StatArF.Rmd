@@ -1,5 +1,5 @@
 ---
-title: "StqtProj2"
+title: "StatProj2"
 author: "Essaddek othmane"
 date: "18/11/2021"
 output: html_document
