@@ -29,7 +29,7 @@ library(stats)
 
 ```
 
-on suit l'evolution de l'evolution de la reponse au vaccin de n individus, les observations sont prise une fois par jour pendant une année.
+on suit l'evolution de la reponse au vaccin de n individus, les observations sont prise une fois par jour pendant une année.
 
 On suppose que la reponse du i_éme individu a l'instant $t_j\in\{t_0,...,T\}$ est de la forme:
 $$Y_i(t_j)=f\left(X_i(t_j)\right)+Z_i(t_j)+W_i(t_j)+\epsilon_{i}(t_j)$$
